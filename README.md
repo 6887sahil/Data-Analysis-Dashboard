@@ -29,6 +29,10 @@ The dashboard analyzes customer data to understand factors affecting bike purcha
 - Data Visualization
 - Excel Reporting
 
+## Dashboard Preview
+<img width="917" height="608" alt="Screenshot 2026-05-12 154946" src="https://github.com/user-attachments/assets/14c8778a-9b72-490f-818c-b50039f8f017" />
+
+
 ## 👨‍💻 Author
 Sahil Pathan  
 Aspiring Data Analyst
